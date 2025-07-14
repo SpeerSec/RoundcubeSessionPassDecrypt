@@ -1,4 +1,5 @@
 # Roundcube Session Password Decrypt
 
+Will decrypt a roundcube session password found in base64 session data.
 
-Made for HacktheBox machine to decode a roundcube session password found in base64 session data. Enjoy.
+This is already available in roundcube github, but I didn't see it until after I quickly wrote this.
